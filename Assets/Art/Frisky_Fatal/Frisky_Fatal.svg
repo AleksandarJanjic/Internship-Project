@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="350px" height="300px" viewBox="0 0 350 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>Frisky_Fatal</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="97.9081893%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#3023AE" offset="0%"></stop>
+            <stop stop-color="#C96DD8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="63.2201032%" y1="21.4056172%" x2="35.2663742%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#DC9EEB" offset="0%"></stop>
+            <stop stop-color="#B564D2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="63.2201032%" y1="21.4056172%" x2="35.2663742%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#FC738F" offset="0%"></stop>
+            <stop stop-color="#E6315E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="101.999998%" y2="100.999999%" id="linearGradient-4">
+            <stop stop-color="#17105F" offset="0%"></stop>
+            <stop stop-color="#9F46AD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#3023AE" offset="0%"></stop>
+            <stop stop-color="#C96DD8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="100.479431%" y2="99.494339%" id="linearGradient-6">
+            <stop stop-color="#5E0047" offset="0%"></stop>
+            <stop stop-color="#BD0F43" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="98.565051%" y2="50%" id="linearGradient-7">
+            <stop stop-color="#95074D" offset="0%"></stop>
+            <stop stop-color="#FE3E63" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="82.2165268%" y1="37.9852864%" x2="23.0996777%" y2="50%" id="linearGradient-8">
+            <stop stop-color="#DC9EEB" offset="0%"></stop>
+            <stop stop-color="#9E4CBB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="82.2165268%" y1="37.9852864%" x2="23.7776132%" y2="66.5977714%" id="linearGradient-9">
+            <stop stop-color="#EF6C8B" offset="0%"></stop>
+            <stop stop-color="#C91653" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="82.2165268%" y1="37.9852864%" x2="24.3733008%" y2="49.741153%" id="linearGradient-10">
+            <stop stop-color="#FB5676" offset="0%"></stop>
+            <stop stop-color="#D72A5B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="82.2165268%" y1="37.9852864%" x2="24.3850827%" y2="49.7387585%" id="linearGradient-11">
+            <stop stop-color="#FC738F" offset="0%"></stop>
+            <stop stop-color="#AA0C44" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="82.2165268%" y1="37.9852864%" x2="23.0996777%" y2="50%" id="linearGradient-12">
+            <stop stop-color="#F9728E" offset="0%"></stop>
+            <stop stop-color="#AE0D44" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="82.2165268%" y1="37.9852864%" x2="23.0996777%" y2="50%" id="linearGradient-13">
+            <stop stop-color="#F9728E" offset="0%"></stop>
+            <stop stop-color="#BB0F43" offset="100%"></stop>
+        </linearGradient>
+        <rect x="10" y="21" width="33" height="34" id="rect-14"></rect>
+        <rect x="10" y="21" width="33" height="34" id="rect-15"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Frisky_Fatal">
+            <g id="Frisky_Fatal_logo">
+                <rect id="templet" fill="#D8D8D8" x="0" y="0" width="186" height="188" rx="6"></rect>
+                <rect id="templet" fill="url(#linearGradient-1)" x="17" y="13" width="153" height="162" rx="6"></rect>
+                <text id="F" transform="translate(116.500000, 121.500000) scale(-1, 1) translate(-116.500000, -121.500000) " font-family="ArialRoundedMTBold, Arial Rounded MT Bold" font-size="120" font-weight="normal" fill="#C7BAFF">
+                    <tspan x="80.2597656" y="166">F</tspan>
+                </text>
+                <text id="F" transform="translate(116.500000, 118.500000) scale(-1, 1) translate(-116.500000, -118.500000) " font-family="ArialRoundedMTBold, Arial Rounded MT Bold" font-size="120" font-weight="normal" fill="#251567">
+                    <tspan x="80.2597656" y="163">F</tspan>
+                </text>
+                <text id="F" font-family="ArialRoundedMTBold, Arial Rounded MT Bold" font-size="120" font-weight="normal" fill="#C8BAFF">
+                    <tspan x="35.2597656" y="130">F</tspan>
+                </text>
+                <text id="F" font-family="ArialRoundedMTBold, Arial Rounded MT Bold" font-size="120" font-weight="normal" fill="#251567">
+                    <tspan x="33.2597656" y="128">F</tspan>
+                </text>
+            </g>
+            <g id="Frisky_Fatal_banner" transform="translate(0.000000, 230.000000)">
+                <g id="text" transform="translate(266.000000, 6.000000)"></g>
+                <rect id="templet" fill="#CCCCCC" x="0" y="0" width="350" height="70" rx="12"></rect>
+                <rect id="templet" fill="#ACACAC" x="0" y="0" width="350" height="70" rx="12"></rect>
+                <ellipse id="Oval-1" fill="url(#linearGradient-2)" cx="284.5" cy="20" rx="18.5" ry="19"></ellipse>
+                <ellipse id="Oval-1" fill="url(#linearGradient-3)" cx="284.5" cy="20" rx="18.5" ry="19"></ellipse>
+                <rect id="Rectangle-2" fill="url(#linearGradient-4)" x="0" y="17" width="342" height="47" rx="12"></rect>
+                <rect id="Rectangle-2-Copy" fill="url(#linearGradient-5)" x="0" y="17" width="342" height="40" rx="12"></rect>
+                <rect id="Rectangle-2" fill="url(#linearGradient-6)" x="0" y="17" width="342" height="47" rx="12"></rect>
+                <rect id="Rectangle-2-Copy" fill="url(#linearGradient-7)" x="0" y="17" width="342" height="40" rx="12"></rect>
+                <text id="Frisky-Fatal" font-family="ArialRoundedMTBold, Arial Rounded MT Bold" font-size="24" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="52.4511719" y="45">Frisky Fatal</tspan>
+                </text>
+                <g id="lines" opacity="0.283231431" transform="translate(164.000000, 26.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle-4" opacity="0.477638134" x="0" y="0" width="73" height="4" rx="2"></rect>
+                    <rect id="Rectangle-4" x="41" y="20" width="89" height="4.8" rx="2.4"></rect>
+                    <rect id="Rectangle-4" x="108" y="6" width="57" height="4" rx="2"></rect>
+                </g>
+                <ellipse id="Oval-1" fill="url(#linearGradient-8)" cx="315.5" cy="55" rx="13.5" ry="14"></ellipse>
+                <ellipse id="Oval-1" fill="url(#linearGradient-9)" cx="315.5" cy="55" rx="13.5" ry="14"></ellipse>
+                <ellipse id="Oval-1" fill="url(#linearGradient-10)" cx="233.5" cy="14" rx="13.5" ry="14"></ellipse>
+                <circle id="Oval-1" fill="url(#linearGradient-11)" cx="180.5" cy="8.5" r="5.5"></circle>
+                <path d="M237.5,69 C240.537566,69 243,66.5375661 243,63.5 C243,60.4624339 240.537566,58 237.5,58 C234.462434,58 232,60.4624339 232,63.5 C232,66.5375661 234.462434,69 237.5,69 Z" id="Oval-1" fill="url(#linearGradient-12)"></path>
+                <path d="M197.5,38 C201.089851,38 204,35.0898509 204,31.5 C204,27.9101491 201.089851,25 197.5,25 C193.910149,25 191,27.9101491 191,31.5 C191,35.0898509 193.910149,38 197.5,38 Z" id="Oval-1" fill="url(#linearGradient-13)"></path>
+                <g id="logo">
+                    <image x="10" y="21" width="33" height="34" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABkCAYAAAB5CTUuAAAABGdBTUEAA1teXP8meAAABOdJREFUeAHtXOF52zYUlPv1f7xB3QmiDapOUGeCshNUmcDyBLUnCDNBlQ2YCcJ0AnWBfMoE6p0bKBBDEgQfAUbWve+7EMTDe4+4AyDLcnR1OBwWGewaNZYZ6kxV4hMS/TNVsr48P/Y5J/CR+PUXvJggX64U9yh01gKcK/G5BD7WSbEDuOI3wDmt+CMhuRtTCrDEw5fAy9yTOOd6P0z08Bvk+QCI/EhCrQJw1dfAXWTd5zCcc19bJ2IRoEDxCrjUVX+Nuf8FlADbo2ysAA+o9gZ4Marq8wr6HdOpgBsg2mIFoNIl8Gd0pecdwFOgBpax04wRgORXABWXfcsAT4MKuP3W1d0zVABHPpWWdTNAEf4Giu4hp54hAoj8U86G3PH1sRgyMCSAyB/CYvsYirBsd33tDQlQYqiOna98+a29f9PRrtDfK0KfACWCfwNk7QzU7d0nvXxNqIDrk17vpkuAAmP0045HlKHpRGhNcdXygQy3zIfW0d2dV92uZ+05RMzuEWPXzfFNAbhVauCn5sDAvQQIEPTF/QrXrT+0eQQ9wBlLvp9P7X4GSri5yI/mC3CLXp37R2qSNPh6cLID3BFEVWpg7OrXERSn1/EocjtgbSA/rrRGk4ES4KJfUIAb4A6Q5WOARxEX/YJHUImr9ezXEUQ24+1ntwPiQ8dHVAg9fKfgs+W0wr0G5CyqWh4DEsAjY46mBJiDda+mBPDImKMpAeZg3aspATwy5mhKgDlY92pO+ce5XtreJt8BPr0N7x01j3Ofu+wcAtS5J/k919MRZFPnoy38/1/GWXNccrz5yNIOmHn5SAAJMDMDM5fXDpAAMzMwc/mp3gfwA5YcNvSTtwoP80uOB7LW0BFkZdAYLwGMBFrDJYCVQWO8BDASaA2XAFYGjfESwEigNVwCWBk0xksAI4HWcAlgZdAYLwGMBFrDJYCVQWO8BDASaA2XAFYGjfESwEigNVwCWBk0xk8lAH9PnwNDp7vK9Dzvhz5Q17ipBOjKr/4AAxIgQFBqtwRIzXAgvwQIEJTaLQFSMxzILwECBKV2S4DUDAfyS4AAQandEiA1w4H8EiBAUGq3BEjNcCC/BAgQlNotAVIzHMgvAQIEpXZLgNQM9+dfSYB+glJ7dxRgl7qK8ncysKEAm063HCkZuEfy4w7gjSwfA59R6oHl3GsAb/5lhywLAwWqPP0veycAb9ZZSqsIP8jfOhqcALxn51vn0DUJAzx6bv3MvgDs5y7QUeQzNG27QLq9n7IpAJ0nCvmD1TYx8IjobTOD+/b0Zn+BjjfNzp77qx6fc23QuHM3F3bl9wot2+bc3AFuTImGXg8cG7Yrz/1VV4ouATi+AN6xIRvNgCOfR3ur9QnAgALg9pGNY2CFsLovNCQAlWMSidDHYrvvD3T3ks+wkAAcIxHIQpyR/HJIyBABmEciDGFzseCZ/woohw0ftgNcLieCfjpyjJxeSf4K2J52998N3QEuC0UogEfXoesTAx/x7xKoY/mIFcDlX6PBrUbVL914IqyAHRBtYwVgoS1A1an+JRoX32ugAPbAKLN+Z9wOVSnCpRkXXQHU1olbdoC19jnGc9XfA1x0ZvJJgHUHMMel2DtMdA3sppywdkCYzfcY8itwC+yASU07oJtOEr8BKiCZdX0ekKLgDZIS52B7POQkZ3xosv8Bq/m89p++uIIAAAAASUVORK5CYII="></image>
+                    <use fill="#422177" fill-rule="evenodd" xlink:href="#rect-14"></use>
+                </g>
+                <g id="logo">
+                    <image x="10" y="21" width="33" height="34" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABkCAYAAAB5CTUuAAAABGdBTUEAA1teXP8meAAABOdJREFUeAHtXOF52zYUlPv1f7xB3QmiDapOUGeCshNUmcDyBLUnCDNBlQ2YCcJ0AnWBfMoE6p0bKBBDEgQfAUbWve+7EMTDe4+4AyDLcnR1OBwWGewaNZYZ6kxV4hMS/TNVsr48P/Y5J/CR+PUXvJggX64U9yh01gKcK/G5BD7WSbEDuOI3wDmt+CMhuRtTCrDEw5fAy9yTOOd6P0z08Bvk+QCI/EhCrQJw1dfAXWTd5zCcc19bJ2IRoEDxCrjUVX+Nuf8FlADbo2ysAA+o9gZ4Marq8wr6HdOpgBsg2mIFoNIl8Gd0pecdwFOgBpax04wRgORXABWXfcsAT4MKuP3W1d0zVABHPpWWdTNAEf4Giu4hp54hAoj8U86G3PH1sRgyMCSAyB/CYvsYirBsd33tDQlQYqiOna98+a29f9PRrtDfK0KfACWCfwNk7QzU7d0nvXxNqIDrk17vpkuAAmP0045HlKHpRGhNcdXygQy3zIfW0d2dV92uZ+05RMzuEWPXzfFNAbhVauCn5sDAvQQIEPTF/QrXrT+0eQQ9wBlLvp9P7X4GSri5yI/mC3CLXp37R2qSNPh6cLID3BFEVWpg7OrXERSn1/EocjtgbSA/rrRGk4ES4KJfUIAb4A6Q5WOARxEX/YJHUImr9ezXEUQ24+1ntwPiQ8dHVAg9fKfgs+W0wr0G5CyqWh4DEsAjY46mBJiDda+mBPDImKMpAeZg3aspATwy5mhKgDlY92pO+ce5XtreJt8BPr0N7x01j3Ofu+wcAtS5J/k919MRZFPnoy38/1/GWXNccrz5yNIOmHn5SAAJMDMDM5fXDpAAMzMwc/mp3gfwA5YcNvSTtwoP80uOB7LW0BFkZdAYLwGMBFrDJYCVQWO8BDASaA2XAFYGjfESwEigNVwCWBk0xksAI4HWcAlgZdAYLwGMBFrDJYCVQWO8BDASaA2XAFYGjfESwEigNVwCWBk0xk8lAH9PnwNDp7vK9Dzvhz5Q17ipBOjKr/4AAxIgQFBqtwRIzXAgvwQIEJTaLQFSMxzILwECBKV2S4DUDAfyS4AAQandEiA1w4H8EiBAUGq3BEjNcCC/BAgQlNotAVIzHMgvAQIEpXZLgNQM9+dfSYB+glJ7dxRgl7qK8ncysKEAm063HCkZuEfy4w7gjSwfA59R6oHl3GsAb/5lhywLAwWqPP0veycAb9ZZSqsIP8jfOhqcALxn51vn0DUJAzx6bv3MvgDs5y7QUeQzNG27QLq9n7IpAJ0nCvmD1TYx8IjobTOD+/b0Zn+BjjfNzp77qx6fc23QuHM3F3bl9wot2+bc3AFuTImGXg8cG7Yrz/1VV4ouATi+AN6xIRvNgCOfR3ur9QnAgALg9pGNY2CFsLovNCQAlWMSidDHYrvvD3T3ks+wkAAcIxHIQpyR/HJIyBABmEciDGFzseCZ/woohw0ftgNcLieCfjpyjJxeSf4K2J52998N3QEuC0UogEfXoesTAx/x7xKoY/mIFcDlX6PBrUbVL914IqyAHRBtYwVgoS1A1an+JRoX32ugAPbAKLN+Z9wOVSnCpRkXXQHU1olbdoC19jnGc9XfA1x0ZvJJgHUHMMel2DtMdA3sppywdkCYzfcY8itwC+yASU07oJtOEr8BKiCZdX0ekKLgDZIS52B7POQkZ3xosv8Bq/m89p++uIIAAAAASUVORK5CYII="></image>
+                    <use fill="#630147" fill-rule="evenodd" xlink:href="#rect-15"></use>
+                </g>
+                <image id="logo" x="12" y="23" width="29" height="30" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABkCAYAAAB5CTUuAAAABGdBTUEAA1teXP8meAAABOdJREFUeAHtXOF52zYUlPv1f7xB3QmiDapOUGeCshNUmcDyBLUnCDNBlQ2YCcJ0AnWBfMoE6p0bKBBDEgQfAUbWve+7EMTDe4+4AyDLcnR1OBwWGewaNZYZ6kxV4hMS/TNVsr48P/Y5J/CR+PUXvJggX64U9yh01gKcK/G5BD7WSbEDuOI3wDmt+CMhuRtTCrDEw5fAy9yTOOd6P0z08Bvk+QCI/EhCrQJw1dfAXWTd5zCcc19bJ2IRoEDxCrjUVX+Nuf8FlADbo2ysAA+o9gZ4Marq8wr6HdOpgBsg2mIFoNIl8Gd0pecdwFOgBpax04wRgORXABWXfcsAT4MKuP3W1d0zVABHPpWWdTNAEf4Giu4hp54hAoj8U86G3PH1sRgyMCSAyB/CYvsYirBsd33tDQlQYqiOna98+a29f9PRrtDfK0KfACWCfwNk7QzU7d0nvXxNqIDrk17vpkuAAmP0045HlKHpRGhNcdXygQy3zIfW0d2dV92uZ+05RMzuEWPXzfFNAbhVauCn5sDAvQQIEPTF/QrXrT+0eQQ9wBlLvp9P7X4GSri5yI/mC3CLXp37R2qSNPh6cLID3BFEVWpg7OrXERSn1/EocjtgbSA/rrRGk4ES4KJfUIAb4A6Q5WOARxEX/YJHUImr9ezXEUQ24+1ntwPiQ8dHVAg9fKfgs+W0wr0G5CyqWh4DEsAjY46mBJiDda+mBPDImKMpAeZg3aspATwy5mhKgDlY92pO+ce5XtreJt8BPr0N7x01j3Ofu+wcAtS5J/k919MRZFPnoy38/1/GWXNccrz5yNIOmHn5SAAJMDMDM5fXDpAAMzMwc/mp3gfwA5YcNvSTtwoP80uOB7LW0BFkZdAYLwGMBFrDJYCVQWO8BDASaA2XAFYGjfESwEigNVwCWBk0xksAI4HWcAlgZdAYLwGMBFrDJYCVQWO8BDASaA2XAFYGjfESwEigNVwCWBk0xk8lAH9PnwNDp7vK9Dzvhz5Q17ipBOjKr/4AAxIgQFBqtwRIzXAgvwQIEJTaLQFSMxzILwECBKV2S4DUDAfyS4AAQandEiA1w4H8EiBAUGq3BEjNcCC/BAgQlNotAVIzHMgvAQIEpXZLgNQM9+dfSYB+glJ7dxRgl7qK8ncysKEAm063HCkZuEfy4w7gjSwfA59R6oHl3GsAb/5lhywLAwWqPP0veycAb9ZZSqsIP8jfOhqcALxn51vn0DUJAzx6bv3MvgDs5y7QUeQzNG27QLq9n7IpAJ0nCvmD1TYx8IjobTOD+/b0Zn+BjjfNzp77qx6fc23QuHM3F3bl9wot2+bc3AFuTImGXg8cG7Yrz/1VV4ouATi+AN6xIRvNgCOfR3ur9QnAgALg9pGNY2CFsLovNCQAlWMSidDHYrvvD3T3ks+wkAAcIxHIQpyR/HJIyBABmEciDGFzseCZ/woohw0ftgNcLieCfjpyjJxeSf4K2J52998N3QEuC0UogEfXoesTAx/x7xKoY/mIFcDlX6PBrUbVL914IqyAHRBtYwVgoS1A1an+JRoX32ugAPbAKLN+Z9wOVSnCpRkXXQHU1olbdoC19jnGc9XfA1x0ZvJJgHUHMMel2DtMdA3sppywdkCYzfcY8itwC+yASU07oJtOEr8BKiCZdX0ekKLgDZIS52B7POQkZ3xosv8Bq/m89p++uIIAAAAASUVORK5CYII="></image>
+            </g>
+            <image id="logo" x="12" y="253" width="29" height="30" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABkCAYAAAB5CTUuAAAABGdBTUEAA1teXP8meAAABOdJREFUeAHtXOF52zYUlPv1f7xB3QmiDapOUGeCshNUmcDyBLUnCDNBlQ2YCcJ0AnWBfMoE6p0bKBBDEgQfAUbWve+7EMTDe4+4AyDLcnR1OBwWGewaNZYZ6kxV4hMS/TNVsr48P/Y5J/CR+PUXvJggX64U9yh01gKcK/G5BD7WSbEDuOI3wDmt+CMhuRtTCrDEw5fAy9yTOOd6P0z08Bvk+QCI/EhCrQJw1dfAXWTd5zCcc19bJ2IRoEDxCrjUVX+Nuf8FlADbo2ysAA+o9gZ4Marq8wr6HdOpgBsg2mIFoNIl8Gd0pecdwFOgBpax04wRgORXABWXfcsAT4MKuP3W1d0zVABHPpWWdTNAEf4Giu4hp54hAoj8U86G3PH1sRgyMCSAyB/CYvsYirBsd33tDQlQYqiOna98+a29f9PRrtDfK0KfACWCfwNk7QzU7d0nvXxNqIDrk17vpkuAAmP0045HlKHpRGhNcdXygQy3zIfW0d2dV92uZ+05RMzuEWPXzfFNAbhVauCn5sDAvQQIEPTF/QrXrT+0eQQ9wBlLvp9P7X4GSri5yI/mC3CLXp37R2qSNPh6cLID3BFEVWpg7OrXERSn1/EocjtgbSA/rrRGk4ES4KJfUIAb4A6Q5WOARxEX/YJHUImr9ezXEUQ24+1ntwPiQ8dHVAg9fKfgs+W0wr0G5CyqWh4DEsAjY46mBJiDda+mBPDImKMpAeZg3aspATwy5mhKgDlY92pO+ce5XtreJt8BPr0N7x01j3Ofu+wcAtS5J/k919MRZFPnoy38/1/GWXNccrz5yNIOmHn5SAAJMDMDM5fXDpAAMzMwc/mp3gfwA5YcNvSTtwoP80uOB7LW0BFkZdAYLwGMBFrDJYCVQWO8BDASaA2XAFYGjfESwEigNVwCWBk0xksAI4HWcAlgZdAYLwGMBFrDJYCVQWO8BDASaA2XAFYGjfESwEigNVwCWBk0xk8lAH9PnwNDp7vK9Dzvhz5Q17ipBOjKr/4AAxIgQFBqtwRIzXAgvwQIEJTaLQFSMxzILwECBKV2S4DUDAfyS4AAQandEiA1w4H8EiBAUGq3BEjNcCC/BAgQlNotAVIzHMgvAQIEpXZLgNQM9+dfSYB+glJ7dxRgl7qK8ncysKEAm063HCkZuEfy4w7gjSwfA59R6oHl3GsAb/5lhywLAwWqPP0veycAb9ZZSqsIP8jfOhqcALxn51vn0DUJAzx6bv3MvgDs5y7QUeQzNG27QLq9n7IpAJ0nCvmD1TYx8IjobTOD+/b0Zn+BjjfNzp77qx6fc23QuHM3F3bl9wot2+bc3AFuTImGXg8cG7Yrz/1VV4ouATi+AN6xIRvNgCOfR3ur9QnAgALg9pGNY2CFsLovNCQAlWMSidDHYrvvD3T3ks+wkAAcIxHIQpyR/HJIyBABmEciDGFzseCZ/woohw0ftgNcLieCfjpyjJxeSf4K2J52998N3QEuC0UogEfXoesTAx/x7xKoY/mIFcDlX6PBrUbVL914IqyAHRBtYwVgoS1A1an+JRoX32ugAPbAKLN+Z9wOVSnCpRkXXQHU1olbdoC19jnGc9XfA1x0ZvJJgHUHMMel2DtMdA3sppywdkCYzfcY8itwC+yASU07oJtOEr8BKiCZdX0ekKLgDZIS52B7POQkZ3xosv8Bq/m89p++uIIAAAAASUVORK5CYII="></image>
+        </g>
+    </g>
+</svg>
